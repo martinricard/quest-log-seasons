@@ -1,0 +1,144 @@
+{
+  "updated": "2026-10-02",
+  "seasons": [
+    {
+      "game": "Marvel Rivals",
+      "aliases": [
+        "Marvel Rivals"
+      ],
+      "season": "Season 10 (Butcher's Blasphemy)",
+      "start": "2026-09-11T09:00:00Z",
+      "ends": "2026-11-13T09:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/marvelrivals/"
+    },
+    {
+      "game": "Rainbow Six Siege X",
+      "aliases": [
+        "Tom Clancy's Rainbow Six Siege",
+        "Tom Clancy's Rainbow Six® Siege X",
+        "Rainbow Six Siege X",
+        "Rainbow Six Siege",
+        "R6 Siege"
+      ],
+      "season": "Y11S3 (Operation Split Fire)",
+      "start": "2026-09-01T13:00:00Z",
+      "ends": "2026-12-01T13:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/r6siege/"
+    },
+    {
+      "game": "Valorant",
+      "aliases": [
+        "VALORANT",
+        "Valorant"
+      ],
+      "season": "Season 2026 Act 5",
+      "start": "2026-08-18T12:00:00Z",
+      "ends": "2026-10-13T12:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/valorant/"
+    },
+    {
+      "game": "Overwatch",
+      "aliases": [
+        "Overwatch",
+        "Overwatch 2",
+        "Overwatch® 2"
+      ],
+      "season": "Season 4 (Reign of Talon: Heroes of Busan)",
+      "start": "2026-08-11T18:00:00Z",
+      "ends": "2026-10-06T18:00:00Z",
+      "confidence": "official",
+      "source": "https://www.dexerto.com/wikis/overwatch/overwatch-season-5-update/"
+    },
+    {
+      "game": "Apex Legends",
+      "aliases": [
+        "Apex Legends",
+        "Apex Legends™"
+      ],
+      "season": "Season 30 (Marked)",
+      "start": "2026-08-04T17:00:00Z",
+      "ends": "2026-11-03T12:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/apex/"
+    },
+    {
+      "game": "Fortnite",
+      "aliases": [
+        "Fortnite",
+        "Fortnite Battle Royale"
+      ],
+      "season": "Chapter 7 Season 4 (Override)",
+      "start": "2026-08-20T10:00:00Z",
+      "ends": "2026-11-01T23:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/fortnite/"
+    },
+    {
+      "game": "Call of Duty: Black Ops 7",
+      "aliases": [
+        "Call of Duty®: Black Ops 7",
+        "Call of Duty: Black Ops 7",
+        "Call of Duty",
+        "Call of Duty®",
+        "Call of Duty: Warzone",
+        "Warzone"
+      ],
+      "season": "Season 06 (The Haunting)",
+      "start": "2026-09-17T16:00:00Z",
+      "ends": "2026-11-15T12:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/cod/"
+    },
+    {
+      "game": "Counter-Strike 2",
+      "aliases": [
+        "Counter-Strike 2",
+        "CS2"
+      ],
+      "season": "Premier Season 5",
+      "start": "2026-07-06T00:00:00Z",
+      "ends": "2027-01-05T12:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/cs2/"
+    },
+    {
+      "game": "Rocket League",
+      "aliases": [
+        "Rocket League",
+        "Rocket League®"
+      ],
+      "season": "Season 24",
+      "start": "2026-09-23T16:00:00Z",
+      "ends": "2026-12-09T17:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/rocketleague/"
+    },
+    {
+      "game": "The Finals",
+      "aliases": [
+        "THE FINALS",
+        "The Finals"
+      ],
+      "season": "Season 11 (Galaxy Masters)",
+      "start": "2026-07-09T13:00:00Z",
+      "ends": "2026-10-20T13:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/thefinals/"
+    },
+    {
+      "game": "League of Legends",
+      "aliases": [
+        "League of Legends",
+        "LoL"
+      ],
+      "season": "2026 Season 3",
+      "start": "2026-07-29T19:00:00Z",
+      "ends": "2027-01-08T12:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/lol/"
+    }
+  ]
+}
