@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-15",
   "seasons": [
     {
       "game": "Marvel Rivals",
@@ -33,11 +33,11 @@
         "VALORANT",
         "Valorant"
       ],
-      "season": "Season 2026 Act 5",
-      "start": "2026-08-18T12:00:00Z",
-      "ends": "2026-10-13T12:00:00Z",
+      "season": "Season 2026 Act 6",
+      "start": "2026-10-14T00:00:00Z",
+      "ends": "2027-01-06T12:00:00Z",
       "confidence": "estimate",
-      "source": "https://ggseason.com/valorant/"
+      "source": "https://www.valorant-spind.de/en/valorant-neuer-akt.html"
     },
     {
       "game": "Overwatch",
@@ -46,11 +46,11 @@
         "Overwatch 2",
         "Overwatch® 2"
       ],
-      "season": "Season 4 (Reign of Talon: Heroes of Busan)",
-      "start": "2026-08-11T18:00:00Z",
-      "ends": "2026-10-06T18:00:00Z",
-      "confidence": "official",
-      "source": "https://www.dexerto.com/wikis/overwatch/overwatch-season-5-update/"
+      "season": "Season 5 (A Grim Doctrine)",
+      "start": "2026-10-06T18:00:00Z",
+      "ends": "2026-12-08T18:00:00Z",
+      "confidence": "estimate",
+      "source": "https://ggseason.com/overwatch2/"
     },
     {
       "game": "Apex Legends",
@@ -60,7 +60,7 @@
       ],
       "season": "Season 30 (Marked)",
       "start": "2026-08-04T17:00:00Z",
-      "ends": "2026-11-03T12:00:00Z",
+      "ends": "2026-11-03T17:00:00Z",
       "confidence": "estimate",
       "source": "https://ggseason.com/apex/"
     },
@@ -74,7 +74,7 @@
       "start": "2026-08-20T10:00:00Z",
       "ends": "2026-11-01T23:00:00Z",
       "confidence": "estimate",
-      "source": "https://ggseason.com/fortnite/"
+      "source": "https://endgametools.com/en/fortnite/news/fortnite-current-season-news"
     },
     {
       "game": "Call of Duty: Black Ops 7",
@@ -125,7 +125,7 @@
       "season": "Season 11 (Galaxy Masters)",
       "start": "2026-07-09T13:00:00Z",
       "ends": "2026-10-20T13:00:00Z",
-      "confidence": "estimate",
+      "confidence": "official",
       "source": "https://ggseason.com/thefinals/"
     },
     {
